@@ -1,0 +1,19 @@
+id: A2EB77BB9
+title: Words of Jamyang Khyentse
+type: translation
+pechas:
+- I9A001E15
+- I3C7B350D
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:36:17.910446
+  last_modified_at: 2023-01-04 12:36:17.910455
+  collections:
+  - Jamyang Khyentse Wangpo Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I9A001E15/B896: 58FA
+  I3C7B350D/C721: 58FA
